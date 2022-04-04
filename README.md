@@ -1,5 +1,5 @@
 # Hi 🐱‍🚀
 
-I write front-ends with Vue/Vuex/fetch and learning how to functional programming with javascript.
+I write front-end with Vue3 and learn how to write javascript with functional programming.
 
 [Agile](https://agilemanifesto.org/) adept
