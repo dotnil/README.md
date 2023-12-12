@@ -5,8 +5,8 @@ I write front-end with Vue3 and learn how to write javascript with functional pr
 
 [Agile](https://agilemanifesto.org/) is important to me.
 
-My demo project in Vue3 (Composition API, Vite, BEM)
+My demo project in Vue3 (Composition API, Vite, BEM) is called
 [To-do](https://dotnil.github.io/todo)
 
-A b2b market where I develop the vendor role / dashboard
+A B2B market where I develop the vendor role/dashboard - 'Market-vue'.
 [Market-vue](https://github.com/ksevelyar/market-vue)
